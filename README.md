@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **C,C++,Java**
 
