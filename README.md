@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# , Java Script**
 
 - 💬 Ask me about **C,C++,Java**
 
