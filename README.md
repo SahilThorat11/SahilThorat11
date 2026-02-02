@@ -44,7 +44,6 @@ Aspiring Java Backend Developer with strong foundation in programming and data s
 - IntelliJ IDEA
 - Visual Studio Code
 - Linux (Ubuntu)
-- Windows
 
 ### Core Computer Science Concepts
 - Data Structures & Algorithms
