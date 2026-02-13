@@ -26,12 +26,12 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
 </p>
 
--🎓 **BSc in Computre Science** @ Dr.D.Y.Patil,Akurdi, Pune  
--💡 Full-Stack Developer fresher passionate about real-world applications  
+- 🎓 **BSc in Computre Science** @ Dr.D.Y.Patil,Akurdi, Pune  
+- 💡 Full-Stack Developer fresher passionate about real-world applications  
 - 🌱 I’m currently learning **Spring Boot**
 - 💬 Ask me about **C,C++,Java**
 - 📫 How to reach me **sahilrajaramthorat11@gmail.com** 
--📍 Pune, Maharashtra, India  
+- 📍 Pune, Maharashtra, India  
 
 ---
 
@@ -45,10 +45,6 @@
 
 ### ⚙️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
-
-### ⚙️ Tools
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 
 <p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="130"/>
