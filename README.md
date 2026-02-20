@@ -1,10 +1,3 @@
-Here is your **FAANG-level, clean, recruiter-focused GitHub Profile README**
-This version is minimal, powerful, and professional — designed to impress recruiters in product-based companies.
-
-You can directly copy-paste it.
-
----
-
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Sahil Rajaram Thorat</h1>
@@ -140,12 +133,3 @@ I would love to connect.
 </p>
 
 ---
-
-If you want, I can now:
-
-* 🔥 Make it ATS-optimized for recruiters
-* 🚀 Add impact-based project descriptions (with metrics)
-* 💎 Make an ultra-minimal Silicon Valley style version
-* 🏆 Make a FAANG + Startup hybrid version
-
-Tell me which one you want.
