@@ -1,57 +1,151 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Sahil Rajaram Thorat</h1>
+Here is your **FAANG-level, clean, recruiter-focused GitHub Profile README**
+This version is minimal, powerful, and professional — designed to impress recruiters in product-based companies.
+
+You can directly copy-paste it.
+
+---
+
+<!-- ========================= HEADER ========================= -->
+
+<h1 align="center">Sahil Rajaram Thorat</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <b>Software Developer | C++ & Java Engineer | Backend Enthusiast | System Programming Aspirant</b>
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer | IT Undergraduate | Tech Enthusiast</h3>
+<p align="center">
+  Pune, India • Open to Opportunities • 2024 Graduate
+</p>
 
 <p align="center">
-  <a href="https://github.com/SahilThorat11">
-    <img src="https://img.shields.io/github/followers/SahilThorat11?label=Followers&style=for-the-badge&logo=github&color=181717" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:sahilrajaramthorat11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SahilThorat11">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
+---
+
+# 👨‍💻 About Me
+
+I am a **BSc Computer Science graduate (2024)** with strong foundations in **Data Structures, Algorithms, and System-Level Programming**.
+
+I focus on writing **clean, efficient, and scalable code** and enjoy solving complex problems using C++ and Java.
+
+* Strong in **C, C++, Java**
+* Practicing **Data Structures & Algorithms daily**
+* Learning **Spring Boot & Backend Architecture**
+* Interested in **System Programming & High-Performance Software**
+* Actively seeking **Software Developer / Backend Engineer roles**
 
 ---
 
-## 👨‍💻 About Me
+# 🛠 Technical Skills
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
-</p>
+### 💻 Languages
 
-- 🎓 **BSc in Computre Science** @ Dr.D.Y.Patil,Akurdi, Pune  
-- 💡 Full-Stack Developer fresher passionate about real-world applications  
-- 🌱 I’m currently learning **Spring Boot**
-- 💬 Ask me about **C,C++,Java**
-- 📫 How to reach me **sahilrajaramthorat11@gmail.com** 
-- 📍 Pune, Maharashtra, India  
+C • C++ • Java • JavaScript
+
+### ⚙️ Backend
+
+Spring Boot • Node.js • REST APIs
+
+### 🗄 Databases
+
+MySQL • MongoDB
+
+### 🧠 Core Concepts
+
+Data Structures • Algorithms • OOP • OS Basics • DBMS • Problem Solving
+
+### 🧰 Tools
+
+Git • GitHub • VS Code • IntelliJ IDEA • Linux
 
 ---
 
-## 🛠️ Tech Stack
+# 📌 Featured Work
 
-### 🚀 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java" />
+### 🔹 Data Structures in C++
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+Implementation of fundamental data structures and sorting algorithms with modular design and clean architecture.
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+Highlights:
+
+* Singly & Circular Linked Lists
+* Stack & Queue (Array + Linked List)
+* Sorting Algorithms (Bubble, Selection, Insertion)
+* Structured OOP-based implementation
+
+---
+
+### 🔹 Full-Stack Practice Projects
+
+Backend-driven applications using:
+
+* Java + Spring Boot
+* Node.js + MongoDB
+* REST API design
+
+---
+
+# 📊 GitHub Performance
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilThorat11&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilThorat11&layout=compact&hide_border=true" height="170"/>
 </p>
+
+---
+
+# 🧠 What I’m Currently Improving
+
+* Advanced Data Structures
+* System Design Fundamentals
+* Multithreading & Concurrency
+* Writing Production-Level Code
+* Competitive Programming Consistency
+
+---
+
+# 🎯 Career Vision
+
+To become a **high-performance system software engineer** who builds scalable, efficient, and reliable systems used by millions.
+
+---
+
+# 📫 Let’s Connect
+
+If you're hiring for:
+
+* Software Developer
+* Backend Engineer
+* System Programming Role
+* Entry-Level Product-Based Company Position
+
+I would love to connect.
+
+📧 [sahilrajaramthorat11@gmail.com](mailto:sahilrajaramthorat11@gmail.com)
+📍 Pune, Maharashtra
+
+---
 
 <p align="center">
-  ❤️ <i>“Code. Learn. Build. Repeat.”</i> ❤️
+  <b>“Discipline beats motivation. Consistency builds engineers.”</b>
 </p>
 
+---
 
+If you want, I can now:
+
+* 🔥 Make it ATS-optimized for recruiters
+* 🚀 Add impact-based project descriptions (with metrics)
+* 💎 Make an ultra-minimal Silicon Valley style version
+* 🏆 Make a FAANG + Startup hybrid version
+
+Tell me which one you want.
