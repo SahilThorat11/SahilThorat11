@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Pune, India • Open to Opportunities • 2024 Graduate
+  Pune, India • Open to Opportunities
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 
 # 👨‍💻 About Me
 
-I am a **BSc Computer Science graduate (2024)** with strong foundations in **Data Structures, Algorithms, and System-Level Programming**.
+I am a **BSc Computer Science graduate** with strong foundations in **Data Structures, Algorithms, and System-Level Programming**.
 
-I focus on writing **clean, efficient, and scalable code** and enjoy solving complex problems using C++ and Java.
+I focus on writing **clean, efficient, and scalable code** and enjoy solving complex problems using C, C++ and Java.
 
 * Strong in **C, C++, Java**
 * Practicing **Data Structures & Algorithms daily**
@@ -58,13 +58,13 @@ Data Structures • Algorithms • OOP • OS Basics • DBMS • Problem Solvin
 
 ### 🧰 Tools
 
-Git • GitHub • VS Code • IntelliJ IDEA • Linux
+Git • GitHub • VS Code • IntelliJ IDEA • Linux 
 
 ---
 
 # 📌 Featured Work
 
-### 🔹 Data Structures in C++
+### 🔹 Data Structures in C, C++, Java.
 
 Implementation of fundamental data structures and sorting algorithms with modular design and clean architecture.
 
@@ -129,7 +129,7 @@ I would love to connect.
 ---
 
 <p align="center">
-  <b>“Discipline beats motivation. Consistency builds engineers.”</b>
+  <b>“Discipline beats motivation. Consistency builds Programmers.”</b>
 </p>
 
 ---
