@@ -90,8 +90,9 @@ Backend-driven applications using:
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilThorat11&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilThorat11&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilThorat11&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilThorat11&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
