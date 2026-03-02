@@ -1,136 +1,104 @@
-<!-- ========================= HEADER ========================= -->
-
-<h1 align="center">Sahil Rajaram Thorat</h1>
+<h1 align="center">Hi 👋, I'm Sahil Rajaram Thorat </h1>
 
 <p align="center">
-  <b>Software Developer | C++ & Java Engineer | Backend Enthusiast | System Programming Aspirant</b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Sc+Computer+Science+Graduate;Backend+Developer;Aspiring+System+Programmer;DSA+Enthusiast;Linux+Learner" />
 </p>
 
 <p align="center">
-  Pune, India • Open to Opportunities
-</p>
-
-<p align="center">
-  <a href="mailto:sahilrajaramthorat11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/SahilThorat11">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  <a href="YOUR_TWITTER_LINK">
+    <img src="https://img.shields.io/badge/Twitter-Tech-1DA1F2?style=for-the-badge&logo=twitter"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-Projects-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="YOUR_WEBSITE_LINK">
+    <img src="https://img.shields.io/badge/Website-Personal-FF5722?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 Who Am I?
 
-I am a **BSc Computer Science graduate** with strong foundations in **Data Structures, Algorithms, and System-Level Programming**.
+🎓 B.Sc Computer Science Graduate  
+💻 Backend Developer with strong system-level interest  
+🧠 Deep understanding of Data Structures & Algorithms  
+🐧 Linux user & OS fundamentals learner  
+🎯 Target Role: **System Programmer / Low-Level Developer**
 
-I focus on writing **clean, efficient, and scalable code** and enjoy solving complex problems using C, C++ and Java.
-
-* Strong in **C, C++, Java**
-* Practicing **Data Structures & Algorithms daily**
-* Learning **Spring Boot & Backend Architecture**
-* Interested in **System Programming & High-Performance Software**
-* Actively seeking **Software Developer / Backend Engineer roles**
+I aim to build performance-critical systems that are scalable, memory-efficient, and reliable.
 
 ---
 
-# 🛠 Technical Skills
+## 🛠️ Tech Arsenal
 
 ### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+</p>
 
-C • C++ • Java • JavaScript
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb" />
+</p>
 
-### ⚙️ Backend
-
-Spring Boot • Node.js • REST APIs
-
-### 🗄 Databases
-
-MySQL • MongoDB
-
-### 🧠 Core Concepts
-
-Data Structures • Algorithms • OOP • OS Basics • DBMS • Problem Solving
-
-### 🧰 Tools
-
-Git • GitHub • VS Code • IntelliJ IDEA • Linux 
-
----
-
-# 📌 Featured Work
-
-### 🔹 Data Structures in C, C++, Java.
-
-Implementation of fundamental data structures and sorting algorithms with modular design and clean architecture.
-
-Highlights:
-
-* Singly & Circular Linked Lists
-* Stack & Queue (Array + Linked List)
-* Sorting Algorithms (Bubble, Selection, Insertion)
-* Structured OOP-based implementation
-
----
-
-### 🔹 Full-Stack Practice Projects
-
-Backend-driven applications using:
-
-* Java + Spring Boot
-* Node.js + MongoDB
-* REST API design
-
----
-
-# 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SahilThorat11&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SahilThorat11&layout=compact&theme=tokyonight" height="170"/>
+### 🧰 Tools & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,git,github,linux,windows" />
 </p>
 
 ---
 
-# 🧠 What I’m Currently Improving
+## 🧠 Core Engineering Strength
 
-* Advanced Data Structures
-* System Design Fundamentals
-* Multithreading & Concurrency
-* Writing Production-Level Code
-* Competitive Programming Consistency
-
----
-
-# 🎯 Career Vision
-
-To become a **high-performance system software engineer** who builds scalable, efficient, and reliable systems used by millions.
+- ✔ Strong foundation in Data Structures & Algorithms  
+- ✔ Object-Oriented & Modular Design  
+- ✔ Operating Systems Concepts (Processes, Threads, Memory)  
+- ✔ Database Design & Query Optimization  
+- ✔ REST API Development with Spring Boot  
+- ✔ Clean Code & Structured Problem Solving  
 
 ---
 
-# 📫 Let’s Connect
-
-If you're hiring for:
-
-* Software Developer
-* Backend Engineer
-* System Programming Role
-* Entry-Level Product-Based Company Position
-
-I would love to connect.
-
-📧 [sahilrajaramthorat11@gmail.com](mailto:sahilrajaramthorat11@gmail.com)
-📍 Pune, Maharashtra
-
----
+## 📊 Performance Dashboard
 
 <p align="center">
-  <b>“Discipline beats motivation. Consistency builds Programmers.”</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilThorat11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilThorat11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/SahilThorat11/SahilThorat11/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+- 📌 Deep dive into System Programming (C/C++)
+- 📌 Advanced Linux Internals
+- 📌 Multi-threading & Concurrency
+- 📌 Networking Fundamentals
+- 📌 Building High-Performance Applications
+
+---
+
+## 💼 What Makes Me Valuable
+
+🔥 Strong analytical thinking  
+🔥 Performance-oriented mindset  
+🔥 Quick learner & self-driven  
+🔥 Solid DSA problem-solving base  
+🔥 Focused career direction toward system-level engineering  
+
+---
+
+<h3 align="center">"Understand the system. Master the fundamentals. Build powerful software."</h3>
