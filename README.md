@@ -1,104 +1,89 @@
-<h1 align="center">Hi 👋, I'm Sahil Rajaram Thorat </h1>
+<h1 align="center">Sahil Thorat</h1>
+<h3 align="center">System Programming Enthusiast | Backend Developer | B.Sc Computer Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Sc+Computer+Science+Graduate;Backend+Developer;Aspiring+System+Programmer;DSA+Enthusiast;Linux+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=FFD700&center=true&vCenter=true&width=700&lines=Aspiring+System+Programmer;C+%7C+C%2B%2B+%7C+Java+Developer;Data+Structures+%26+Algorithms;Linux+%7C+Backend+Engineering;Performance-Oriented+Developer" />
 </p>
+
+---
 
 <p align="center">
   <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=gold"/>
   </a>
   <a href="YOUR_TWITTER_LINK">
-    <img src="https://img.shields.io/badge/Twitter-Tech-1DA1F2?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=gold"/>
   </a>
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Projects-000000?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=gold"/>
   </a>
   <a href="YOUR_WEBSITE_LINK">
-    <img src="https://img.shields.io/badge/Website-Personal-FF5722?style=for-the-badge&logo=google-chrome"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=gold"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Who Am I?
+# 🧠 About Me
 
 🎓 B.Sc Computer Science Graduate  
-💻 Backend Developer with strong system-level interest  
-🧠 Deep understanding of Data Structures & Algorithms  
-🐧 Linux user & OS fundamentals learner  
-🎯 Target Role: **System Programmer / Low-Level Developer**
+💻 Strong foundation in **C, C++, Java & JavaScript**  
+⚙️ Backend Developer using **Spring Boot, MySQL & MongoDB**  
+🐧 Comfortable with **Linux & Windows environments**  
+🧩 Passionate about **Data Structures & Algorithms**  
 
-I aim to build performance-critical systems that are scalable, memory-efficient, and reliable.
+🎯 **Career Objective:**  
+To become a System Programmer building scalable, high-performance and memory-efficient systems.
 
 ---
 
-## 🛠️ Tech Arsenal
+# ⚔️ Technical Arsenal
 
-### 💻 Languages
+## 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
 </p>
 
-### ⚙️ Backend & Databases
+## ⚙️ Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb" />
 </p>
 
-### 🧰 Tools & Systems
+## 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,git,github,linux,windows" />
 </p>
 
 ---
 
-## 🧠 Core Engineering Strength
+# 📊 GitHub Performance
 
-- ✔ Strong foundation in Data Structures & Algorithms  
-- ✔ Object-Oriented & Modular Design  
-- ✔ Operating Systems Concepts (Processes, Threads, Memory)  
-- ✔ Database Design & Query Optimization  
-- ✔ REST API Development with Spring Boot  
-- ✔ Clean Code & Structured Problem Solving  
+![GitHub Stats](https://stats.vercel.app/api?username=SahilThorat11&show_icons=true)
+
+![Top Languages](https://stats.vercel.app/api/top-langs/?username=SahilThorat11&layout=compact)
 
 ---
 
-## 📊 Performance Dashboard
+# 🎯 Engineering Focus 2026
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilThorat11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilThorat11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/SahilThorat11/SahilThorat11/blob/output/github-contribution-grid-snake.svg" />
-</p>
+- 🔹 Advanced System Programming in C/C++
+- 🔹 Deep Dive into Linux Internals
+- 🔹 Multi-threading & Concurrency
+- 🔹 Memory Management & Optimization
+- 🔹 Networking Fundamentals
+- 🔹 Building Performance-Critical Applications
 
 ---
 
-## 🎯 2026 Focus
+# 💼 What I Bring
 
-- 📌 Deep dive into System Programming (C/C++)
-- 📌 Advanced Linux Internals
-- 📌 Multi-threading & Concurrency
-- 📌 Networking Fundamentals
-- 📌 Building High-Performance Applications
-
----
-
-## 💼 What Makes Me Valuable
-
-🔥 Strong analytical thinking  
-🔥 Performance-oriented mindset  
-🔥 Quick learner & self-driven  
-🔥 Solid DSA problem-solving base  
-🔥 Focused career direction toward system-level engineering  
+✔ Strong analytical & problem-solving skills  
+✔ Deep DSA understanding  
+✔ Clean & structured coding style  
+✔ Backend API development experience  
+✔ Performance-oriented thinking  
+✔ Continuous learner mindset  
 
 ---
 
-<h3 align="center">"Understand the system. Master the fundamentals. Build powerful software."</h3>
+<h3 align="center">"Master the fundamentals. Understand the system. Engineer with precision."</h3>
