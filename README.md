@@ -76,6 +76,10 @@ Backend Developer | System Programming Enthusiast | Open Source Learner
 - Improving DSA problem solving skills
 
 ---
+## 📈 **Contribution Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilThorat11&theme=react-dark&hide_border=true" />
+</p>
 
 ⭐ **If you like my projects, consider giving them a star!**
 
