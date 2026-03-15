@@ -82,5 +82,7 @@ Backend Developer | System Programming Enthusiast | Open Source Learner
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilThorat11&theme=react-dark&hide_border=true" />
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilThorat11&" alt="SahilThorat11" /></p>
+
 ⭐ **If you like my projects, consider giving them a star!**
 
