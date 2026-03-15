@@ -9,7 +9,7 @@ Backend Developer | System Programming Enthusiast | Open Source Learner
 ## 🚀 About Me
 
 - 💻 Passionate about **Backend Development and System Programming**
-- ⚙️ Interested in **Operating Systems, Networking, and Scalable Systems**
+- ⚙️ Interested in **Operating Systems, Networking and Scalable Systems**
 - 🧠 Strong foundation in **Data Structures and Algorithms**
 - 🐧 Comfortable working in **Linux environments**
 - 📚 Always learning new technologies and improving coding skills
@@ -45,7 +45,6 @@ Backend Developer | System Programming Enthusiast | Open Source Learner
 - Data Structures & Algorithms
 - Object Oriented Programming
 - Operating Systems
-- System Programming
 - Computer Networks
 
 ---
@@ -74,6 +73,8 @@ Backend Developer | System Programming Enthusiast | Open Source Learner
 - Spring Boot microservices
 - Advanced system programming
 - Improving DSA problem solving skills
+- Learning Python for scripting and automation
+- Learning JavaScript for full-stack development
 
 ---
 ## 📈 **Contribution Activity**
