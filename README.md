@@ -5,6 +5,8 @@ Backend Developer | System Programming Enthusiast | Open Source Learner
 </p>
 
 ---
+Aspiring Java Backend Developer with strong foundation in programming and data structures. Skilled in Spring Boot, REST API development and database technologies through multiple academic and industry-oriented projects. Seeking an opportunity to contribute to scalable backend software solutions while continuously enhancing technical expertise.
+---
 
 ## 🚀 About Me
 
