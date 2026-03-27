@@ -84,7 +84,11 @@ Aspiring Java Backend Developer with strong foundation in programming and data s
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilThorat11&" alt="SahilThorat11" /></p>
 
 ---
+## 📈 **Contribution Activity**
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilThorat11&theme=react-dark&hide_border=true" />
+</p>
 ---
 
 <div align="center">
