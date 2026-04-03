@@ -70,12 +70,6 @@ Aspiring Java Backend Developer with strong foundation in programming and data s
 </p>
 
 ---
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SahilThorat11/SahilThorat11/output/github-contribution-grid-snake.svg" />
-</p>
----
 
 ## 📌 Current Focus
 
