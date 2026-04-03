@@ -62,15 +62,6 @@ Aspiring Java Backend Developer with strong foundation in programming and data s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SahilThorat11&show_icons=true&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilThorat11&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 📌 Current Focus
 
 - Backend system design
