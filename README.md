@@ -73,6 +73,24 @@ Aspiring Java Backend Developer with strong foundation in programming and data s
 
 ---
 
+<p align="center">
+  <a href="https://github.com/SahilThorat11/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=SahilThorat11&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/SahilThorat11/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=SahilThorat11&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilThorat11&" alt="SahilThorat11" /></p>
+
+---
+
+## 📈 **Contribution Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilThorat11&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 <div align="center">
 
 ⭐ **If you like my projects, consider giving them a star!**
