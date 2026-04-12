@@ -16,7 +16,7 @@ Aspiring Java Backend Developer with strong foundation in programming and data s
 - ⚙️ Interested in **Operating Systems, Networking and Scalable Systems**
 - 🧠 Strong foundation in **Data Structures and Algorithms**
 - 🐧 Comfortable working in **Linux environments**
-- 📚 Always learning new technologies and improving coding skills
+- 📚 Always learning **new technologies** and improving coding skills
 
 ---
 
