@@ -1,43 +1,64 @@
-# Hi, I'm Sahil Thorat 👋
+<h1 align="center">Hi 👋, I'm Sahil Rajaram Thorat</h1>
 
-Java Backend Developer from Pune, Maharashtra.  
-I build scalable backend applications using **Spring Boot**, **REST APIs**, and **database technologies**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilthorat11/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilrajaramthorat11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SahilThorat11)
+<p align="center">
+Backend Developer | System Programming Enthusiast | Open Source Learner
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+Aspiring Java Backend Developer with strong foundation in programming and data structures. Skilled in Spring Boot, REST API development and database technologies through multiple academic and industry-oriented projects. Seeking an opportunity to contribute to scalable backend software solutions while continuously enhancing technical expertise.
 
-**Languages**
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 🚀 About Me
 
-**Frameworks & Tools**
+- 💻 Passionate about **Backend Development and System Programming**
+- ⚙️ Interested in **Operating Systems, Networking and Scalable Systems**
+- 🧠 Strong foundation in **Data Structures and Algorithms**
+- 🐧 Comfortable working in **Linux environments**
+- 📚 Always learning new technologies and improving coding skills
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+---
 
-**Databases**
+## 🛠 Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+### Programming Languages
+- Java
+- C
+- C++
+- Python
+- JavaScript
 
-**Operating Systems**
+### Backend Technologies
+- Spring Boot
+- REST APIs
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+### Databases
+- MySQL
+- MongoDB
+- Oracle (PL/SQL)
+
+### Tools & Platforms
+- Git
+- GitHub
+- IntelliJ IDEA
+- Visual Studio Code
+- Linux (Ubuntu)
+
+### Core Computer Science Concepts
+- Data Structures & Algorithms
+- Object Oriented Programming
+- Operating Systems
+- Computer Networks
+
+---
+
+## 📚 GitHub Highlights
+
+- Implemented **50+ Data Structure programs**
+- Built **multiple system-level applications**
+- Active contributor maintaining structured repositories
+- Passionate about **low-level system development**
 
 ---
 
@@ -65,4 +86,27 @@ I build scalable backend applications using **Spring Boot**, **REST APIs**, and 
 
 ---
 
-*Open to backend developer opportunities. Feel free to connect!*
+## 📌 Current Focus
+
+- Backend system design
+- Spring Boot microservices
+- Advanced system programming
+- Improving DSA problem solving skills
+- Learning Python for scripting and automation
+- Learning JavaScript for full-stack development
+
+---
+
+## 📈 **Contribution Activity**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilThorat11&theme=react-dark&hide_border=true" />
+</p>
+---
+
+<div align="center">
+
+⭐ **If you like my projects, consider giving them a star!**
+
+</div>
+
