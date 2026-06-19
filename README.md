@@ -33,14 +33,14 @@ Backend Developer | System Programming Enthusiast | Open Source Learner
 ### Databases
 - MySQL
 - MongoDB
-- Oracle (PL/SQL)
+- Oracle(PL/SQL)
 
 ### Tools & Platforms
 - Git
 - GitHub
 - IntelliJ IDEA
 - Visual Studio Code
-- Linux (Ubuntu)
+- Linux(Ubuntu)
 - Windows 11
 
 ### Core Computer Science Concepts
