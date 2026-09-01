@@ -2,7 +2,7 @@
 
 # Hi, I'm Sahil Rajaram Thorat 👋
 
-**Backend Developer | Java & Spring Boot | Aspiring Systems Programmer**
+**Java FullStack Developer | Java,Spring Boot & ReactJs| Aspiring System Programmer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-SahilThorat11-181717?style=flat&logo=github)](https://github.com/SahilThorat11)
 
